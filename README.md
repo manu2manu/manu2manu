@@ -1,4 +1,5 @@
 ### Hi! I'm Manu 👋
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40YoanMPP)](https://twitter.com/yoanMPP)
 ## I'm a Web Developer.
 ### Things I am passionate about:
 - Developing web apps frontend with ReactJS 👨‍💻
@@ -13,9 +14,6 @@
 <a href="https://github.com/manu2manu">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu2manu&hide=tex,html,css&count_private=true&theme=react" />
 </a>
-
-##
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40YoanMPP)](https://twitter.com/yoanMPP)
 
 
 <!--
