@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi! I'm Manu 👋
+## I'm a Web Developer.
+### Things I am passionate about:
+- Developing web apps frontend with ReactJS 👨‍💻
+- Developing web apps backend with NodeJS (Express, NestJS, Strapi) 👨‍💻
+- Teaching others 👨‍🏫
+
+## ✨ GitHub Stats
+
+<a href="https://github.com/manu2manu">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=manu2manu&hide_rank=false&show_icons=true&line_height=27&count_private=true&theme=react" />
+</a>
+<a href="https://github.com/manu2manu">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu2manu&hide=tex,html,css&count_private=true&theme=react" />
+</a>
+
 
 <!--
 **manu2manu/manu2manu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
