@@ -1,5 +1,5 @@
 ### Hi! I'm Manu 👋
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40YoanMPP)](https://twitter.com/yoanMPP)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40manujsdev)](https://twitter.com/manujsdev)
 ## I'm a Web Developer.
 ### Things I am passionate about:
 - Developing web apps frontend with ReactJS, Angular 👨‍💻
