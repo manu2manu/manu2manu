@@ -8,11 +8,11 @@
 
 ## ✨ GitHub Stats
 
-<a href="https://github.com/manu2manu">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=manu2manu&hide_rank=false&show_icons=true&line_height=27&count_private=true&theme=react" />
+<a href="https://github.com/manujsdev">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=manujsdev&hide_rank=false&show_icons=true&line_height=27&count_private=true&theme=react" />
 </a>
-<a href="https://github.com/manu2manu">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu2manu&hide=tex,html,css&count_private=true&theme=react" />
+<a href="https://github.com/manujsdev">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manujsdev&hide=tex,html,css&count_private=true&theme=react" />
 </a>
 
 
