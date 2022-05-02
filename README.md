@@ -2,7 +2,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40manujsdev)](https://twitter.com/manujsdev)
 ## I'm a Web Developer.
 ### Things I am passionate about:
-- Developing web apps frontend with ReactJS, Angular 👨‍💻
+- Developing web apps frontend with ReactJS, NextJS, Angular, Svelte 👨‍💻
 - Developing web apps backend with NodeJS (Express, NestJS, Strapi) 👨‍💻
 - Teaching others 👨‍🏫
 
